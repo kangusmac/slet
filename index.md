@@ -1,10 +1,3 @@
----
-
-layout: home
-title: index.md
-subtitle: TUR 20 - Relevant information
-
----
 
 
 # Beskrivelse af "TUR 20"
